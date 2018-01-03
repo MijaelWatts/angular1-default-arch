@@ -12,7 +12,6 @@
   "author": "MijaelWatts",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.5",
-    "babel": "^6.23.0"
+    "angular": "^1.6.5"
   }
 }
